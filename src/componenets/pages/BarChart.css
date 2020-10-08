@@ -1,0 +1,14 @@
+.barchart{
+    padding: 4rem;
+    background: #fff;
+}
+
+.barchart__container{
+    display: flex;
+    flex: auto;
+    align-items: center;
+    max-width: max-content;
+    max-height: max-content;
+    width: auto;
+    margin: 0 auto ;
+}
